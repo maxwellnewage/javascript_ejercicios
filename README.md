@@ -28,3 +28,5 @@
 * [Recorrer un array de autos y devolver sus atributos](objetos/cars)
 * [Crear un array del objeto Persona con persistencia en adicion](objetos/persons)
 * [Crear un objeto Persona con metodos y atributos a traves de una funcion constructora](objetos/person)
+## Proyectos
+* [Algoritmo de eleccion aleatoria de alumnos](proyectos/alumnos_random)
