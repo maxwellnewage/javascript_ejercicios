@@ -3,6 +3,11 @@
 ## Basico
 * [Escriba un programa de JavaScript para mostrar el día y la hora actuales en el siguiente formato: "Hoy es : Lunes."](basico/date/)
 * [Escriba una función de JavaScript para imprimir el contenido de la ventana actual.](basico/printer/)
+* [Escribir un texto y devolverlo en consola.](basico/prompt)
+* [Uso del typeof](basico/typeof)
+* [Dividir un numero de documento por puntos](basico/dni)
+* [Convertir un texto a mayusculas o minusculas](basico/lower_upper)
+* [Cortar un array por posicion segun sus elementos](basico/split)
 ## Ciclos
 * [Crear un ciclo que recorra los numeros del 1 al 10 y los imprima hasta el 5.](ciclos/while_break)
 * [Recorrer los numeros del 1 al 5 pero saltear el 3.](ciclos/for_continue)
@@ -12,8 +17,14 @@
 * [Solicitar 5 alumnos, agregarlos a un array y luego mostrarlos.](ciclos/for_array)
 * [While vs Do While](ciclos/while_do_while)
 ## Condicionales
-
+* [Comprobar si una variable tiene un valor y devolver un mensaje en consola.](condicionales/if)
+* [Comprobar si una variable tiene una serie de valores distintos con if.](condicionales/elseif)
+* [Comprobar si una variable tiene una serie de valores distintos con switch.](condicionales/switch)
 ## Funciones
 * [Crear una funcion que salude pasando el nombre por parametro.](funciones/saludo)
 * [Sumar un numero recursivamente mientras sea menor a 10.](funciones/recursividad)
+* [Crear una funcion recursiva para calcular numeros primos](funciones/primos)
 ## Objetos
+* [Recorrer un array de autos y devolver sus atributos](objetos/cars)
+* [Crear un array del objeto Persona con persistencia en adicion](objetos/persons)
+* [Crear un objeto Persona con metodos y atributos a traves de una funcion constructora](objetos/person)
