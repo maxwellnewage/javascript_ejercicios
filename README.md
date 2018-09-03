@@ -1,1 +1,1 @@
-# javascript_warehouse
+# Ejercicios de Javascript
