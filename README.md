@@ -25,6 +25,7 @@
 * [Comprobar si una variable tiene un valor y devolver un mensaje en consola.](condicionales/if)
 * [Comprobar si una variable tiene una serie de valores distintos con if.](condicionales/elseif)
 * [Comprobar si una variable tiene una serie de valores distintos con switch.](condicionales/switch)
+* [Solicitar nombre y genero al usuario, luego validar la salida.](condicionales/gender)
 ## Funciones
 * [Crear una funcion que salude pasando el nombre por parametro.](funciones/saludo)
 * [Sumar un numero recursivamente mientras sea menor a 10.](funciones/recursividad)
@@ -35,3 +36,4 @@
 * [Crear un objeto Persona con metodos y atributos a traves de una funcion constructora.](objetos/person)
 ## Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
+* [Quest Manager](proyectos/quest_manager)
