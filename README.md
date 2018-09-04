@@ -8,6 +8,11 @@
 * [Dividir un numero de documento por puntos](basico/dni)
 * [Convertir un texto a mayusculas o minusculas](basico/lower_upper)
 * [Cortar un array por posicion segun sus elementos](basico/split)
+## Intermedio
+* [Funciones de document que afectan al DOM](intermedio/dom)
+* [Transformar un objeto a json y viceversa](intermedio/json)
+* [Como funciona el local storage](intermedio/storage)
+* [Crear un objeto Person, convertirlo a json y almacenarlo en local storage](intermedio/storage_json)
 ## Ciclos
 * [Crear un ciclo que recorra los numeros del 1 al 10 y los imprima hasta el 5.](ciclos/while_break)
 * [Recorrer los numeros del 1 al 5 pero saltear el 3.](ciclos/for_continue)
