@@ -1,13 +1,14 @@
 # Ejercicios de Javascript
 
 ## Basico
-* [Escriba un programa de JavaScript para mostrar el día y la hora actuales en el siguiente formato: "Hoy es : Lunes."](basico/date/)
-* [Escriba una función de JavaScript para imprimir el contenido de la ventana actual.](basico/printer/)
+* [Escriba un programa de JavaScript para mostrar el día y la hora actuales en el siguiente formato: "Hoy es : Lunes."](basico/date)
+* [Escriba una función de JavaScript para imprimir el contenido de la ventana actual.](basico/printer)
 * [Escribir un texto y devolverlo en consola.](basico/prompt)
 * [Uso del typeof.](basico/typeof)
 * [Dividir un numero de documento por puntos.](basico/dni)
 * [Convertir un texto a mayusculas o minusculas.](basico/lower_upper)
 * [Cortar un array por posicion segun sus elementos.](basico/split)
+* [Devolver la posicion de determinado string dentro de una cadena](basico/indexof)
 ## Intermedio
 * [Funciones de document que afectan al DOM.](intermedio/dom)
 * [Transformar un objeto a json y viceversa.](intermedio/json)
