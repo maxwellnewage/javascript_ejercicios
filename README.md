@@ -9,6 +9,7 @@
 * [Convertir un texto a mayusculas o minusculas.](basico/lower_upper)
 * [Cortar un array por posicion segun sus elementos.](basico/split)
 * [Devolver la posicion de determinado string dentro de una cadena](basico/indexof)
+* [Obtener un string y validar su tipo; condicionar un valor y poner todo en mayúsculas](basico/indexof_type_upper)
 ## Intermedio
 * [Funciones de document que afectan al DOM.](intermedio/dom)
 * [Transformar un objeto a json y viceversa.](intermedio/json)
