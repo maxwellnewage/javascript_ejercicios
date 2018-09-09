@@ -15,6 +15,7 @@
 * [Transformar un objeto a json y viceversa.](intermedio/json)
 * [Como funciona el local storage.](intermedio/storage)
 * [Crear un objeto Person, convertirlo a json y almacenarlo en local storage.](intermedio/storage_json)
+* [Obtener un elemento del DOM sin usar getElementById](intermedio/no_getElementById)
 ## Ciclos
 * [Crear un ciclo que recorra los numeros del 1 al 10 y los imprima hasta el 5.](ciclos/while_break)
 * [Recorrer los numeros del 1 al 5 pero saltear el 3.](ciclos/for_continue)
@@ -36,6 +37,11 @@
 * [Recorrer un array de autos y devolver sus atributos.](objetos/cars)
 * [Crear un array del objeto Persona con persistencia en adicion.](objetos/persons)
 * [Crear un objeto Persona con metodos y atributos a traves de una funcion constructora.](objetos/person)
+## Eventos
+* [Quita el foco de un campo input y el texto se convierte a mayusculas (onblur)](eventos/onblur.html)
+* [Elige una opcion del select y aparece un popup con la opcion elegida (onchange)](eventos/onchange.html)
+* [Aprieta un boton y devuelve un popup (onclick)](eventos/onclick.html)
+* [Demostracion de eventos tipo key (onkeyup, onkeydown, onkeypress)](eventos/onkey_up_down_press.html)
 ## Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
 * [Quest Manager](proyectos/quest_manager)
