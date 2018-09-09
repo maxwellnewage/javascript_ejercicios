@@ -42,6 +42,8 @@
 * [Elige una opcion del select y aparece un popup con la opcion elegida (onchange)](eventos/onchange.html)
 * [Aprieta un boton y devuelve un popup (onclick)](eventos/onclick.html)
 * [Demostracion de eventos tipo key (onkeyup, onkeydown, onkeypress)](eventos/onkey_up_down_press.html)
+* [Evento semantico (onclick)](eventos/evento_semantico.html)
+* [Implementacion de Event Handler (onclick)](eventos/event_handler.html)
 ## Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
 * [Quest Manager](proyectos/quest_manager)

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>OnClick</title>
+</head>
+
+<body>
+    <input type="button" id="button1" value="BOTON 1" />
+    <input type="button" id="button2" value="BOTON 2" />
+    <input type="button" id="button3" value="BOTON 3" />
+
+    <script src="event_handler.js">
+        button1.onclick = showMessage;
+        button2.onclick = showMessage;
+        button3.onclick = showMessage;
+
+        function showMessage(event) {
+            var inputNode = event.target;
+
+            if (inputNode.id === "button1") {
+                alert("boton de panico!");
+            } else {
+                console.log('Este no...');
+            }
+        }
+    </script>
+</body>
+
+</html>
