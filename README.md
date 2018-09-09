@@ -34,9 +34,9 @@
 * [Sumar un numero recursivamente mientras sea menor a 10.](funciones/recursividad.js)
 * [Crear una funcion recursiva para calcular numeros primos.](funciones/primos.js)
 ## Objetos
-* [Recorrer un array de autos y devolver sus atributos.](objetos/cars)
-* [Crear un array del objeto Persona con persistencia en adicion.](objetos/persons)
-* [Crear un objeto Persona con metodos y atributos a traves de una funcion constructora.](objetos/person)
+* [Recorrer un array de autos y devolver sus atributos.](objetos/cars.js)
+* [Crear un array del objeto Persona con persistencia en adicion.](objetos/persons.js)
+* [Crear un objeto Persona con metodos y atributos a traves de una funcion constructora.](objetos/person.js)
 ## Eventos
 * [Quita el foco de un campo input y el texto se convierte a mayusculas (onblur)](eventos/onblur.html)
 * [Elige una opcion del select y aparece un popup con la opcion elegida (onchange)](eventos/onchange.html)
