@@ -1,14 +1,14 @@
 # Ejercicios de Javascript
 
 ## Módulos
-* [Basico](#basico)
-* [Intermedio](#intermedio)
-* [Ciclos](#ciclos)
-* [Condicionales](#condicionales)
-* [Funciones](#funciones)
-* [Objetos](#objetos)
-* [Eventos](#eventos)
-* [Proyectos](#proyectos)
+[[Basico](#basico)]
+[[Intermedio](#intermedio)]
+[[Ciclos](#ciclos)]
+[[Condicionales](#condicionales)]
+[[Funciones](#funciones)]
+[[Objetos](#objetos)]
+[[Eventos](#eventos)]
+[[Proyectos](#proyectos)]
 
 ## Basico
 * [Escriba un programa de JavaScript para mostrar el día y la hora actuales en el siguiente formato: "Hoy es : Lunes."](basico/date.js)
