@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Events</title>
+</head>
+
+<body>
+    <input type="text" id="fname" onkeyup="keyUp()" onkeydown="keyDown()" onkeypress="keyPress()">
+
+    <script>
+        function keyDown() {
+            console.log("keyDown! " + fname.value);
+        }
+
+        function keyPress() {
+            console.log("keyPress! " + fname.value);
+        }
+
+        function keyUp() {
+            console.log("keyUp! " + fname.value);
+        }
+    </script>
+</body>
+
+</html>

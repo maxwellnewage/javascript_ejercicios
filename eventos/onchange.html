@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <select id="browsers" onchange="preferedBrowser()">
+            <option value="">Que navegador te gusta usar?</option>
+            <option value="Chrome">Chrome</option>
+            <option value="Internet Explorer">Internet Explorer</option>
+            <option value="Firefox">Firefox</option>
+        </select>
+    </form>
+
+    <script>
+        function preferedBrowser() {
+            if (browsers.value == "Chrome") {
+                alert("Vas por buen camino!");
+            } else if (browsers.value == "Firefox") {
+                alert("El zorro es un buen compañero :)");
+            } else {
+                alert("Estas bien? Necesitas que hablemos?");
+            }
+        }
+    </script>
+</body>
+
+</html>
