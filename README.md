@@ -30,9 +30,9 @@
 * [Comprobar si una variable tiene una serie de valores distintos con switch.](condicionales/switch.js)
 * [Solicitar nombre y genero al usuario, luego validar la salida.](condicionales/gender.js)
 ## Funciones
-* [Crear una funcion que salude pasando el nombre por parametro.](funciones/saludo)
-* [Sumar un numero recursivamente mientras sea menor a 10.](funciones/recursividad)
-* [Crear una funcion recursiva para calcular numeros primos.](funciones/primos)
+* [Crear una funcion que salude pasando el nombre por parametro.](funciones/saludo.js)
+* [Sumar un numero recursivamente mientras sea menor a 10.](funciones/recursividad.js)
+* [Crear una funcion recursiva para calcular numeros primos.](funciones/primos.js)
 ## Objetos
 * [Recorrer un array de autos y devolver sus atributos.](objetos/cars)
 * [Crear un array del objeto Persona con persistencia en adicion.](objetos/persons)
