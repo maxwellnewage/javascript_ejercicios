@@ -25,10 +25,10 @@
 * [Solicitar 5 alumnos, agregarlos a un array y luego mostrarlos.](ciclos/for_array.js)
 * [While vs Do While](ciclos/while_do_while.js)
 ## Condicionales
-* [Comprobar si una variable tiene un valor y devolver un mensaje en consola.](condicionales/if)
-* [Comprobar si una variable tiene una serie de valores distintos con if.](condicionales/elseif)
-* [Comprobar si una variable tiene una serie de valores distintos con switch.](condicionales/switch)
-* [Solicitar nombre y genero al usuario, luego validar la salida.](condicionales/gender)
+* [Comprobar si una variable tiene un valor y devolver un mensaje en consola.](condicionales/if.js)
+* [Comprobar si una variable tiene una serie de valores distintos con if.](condicionales/elseif.js)
+* [Comprobar si una variable tiene una serie de valores distintos con switch.](condicionales/switch.js)
+* [Solicitar nombre y genero al usuario, luego validar la salida.](condicionales/gender.js)
 ## Funciones
 * [Crear una funcion que salude pasando el nombre por parametro.](funciones/saludo)
 * [Sumar un numero recursivamente mientras sea menor a 10.](funciones/recursividad)
