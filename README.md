@@ -27,6 +27,7 @@
 * [Crear un objeto Person, convertirlo a json y almacenarlo en local storage.](intermedio/storage_json.js)
 * [Obtener un elemento del DOM sin usar getElementById](intermedio/woGetElementById.html)
 * [Destructuración](intermedio/destructuracion.js)
+* [Funcion de Flecha](intermedio/funcion_flecha.js)
 ## Ciclos
 * [Crear un ciclo que recorra los numeros del 1 al 10 y los imprima hasta el 5.](ciclos/while_break.js)
 * [Recorrer los numeros del 1 al 5 pero saltear el 3.](ciclos/for_continue.js)
