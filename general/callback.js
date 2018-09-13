@@ -17,5 +17,4 @@ getUserById(10, (err, user) => {
     } else {
         console.log('User', user);
     }
-    
 });
