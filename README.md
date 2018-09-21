@@ -70,3 +70,4 @@
 * [Escribir un texto que aparezca en un alert cuando se dispare evento click](jquery/input_alert.html)
 * [Al pulsar un boton, mediante this se tiene que ocultar y mostrar por un tiempo determinado](jquery/this.html)
 * [Al pulsar un boton, se oculta el ultimo y primer elemento de una lista](jquery/list_selector.html)
+* [Uso de even y odd para seleccion par e impar](jquery/even_odd.html)

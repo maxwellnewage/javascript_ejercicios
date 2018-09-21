@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Jquery</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <td>Max</td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td>Tomas</td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td>Roc</td>
+            <td>14</td>
+        </tr>
+    </table>
+
+    <script>
+        $(document).ready(function(){
+            $("tr:even").css("background-color", "yellow"); // filas de indice par tienen color
+            $("tr:odd").css("background-color", "yellow"); // filas de indice impar tienen color
+        });
+    </script>
+</body>
+</html>
