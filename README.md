@@ -84,6 +84,7 @@
 * [Obtener el nodo padre](jquery/parent.html)
 * [Uso de metodos de transicion FadeIn y FadeOut](jquery/fadein_out.html)
 * [Uso de metodos de transicion SlideDown y SlideUp](jquery/slidedown_up.html)
+* [Uso de metodo delay con hide](jquery/delay_hide.html)
 
 # Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
