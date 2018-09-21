@@ -8,8 +8,8 @@
 [[Funciones](#funciones)]
 [[Objetos](#objetos)]
 [[Eventos](#eventos)]
-[[Proyectos](#proyectos)]
 [[Jquery](#jquery)]
+[[Proyectos](#proyectos)]
 
 # Introduccion
 * Este es un repositorio para practicar los principios básicos y avanzados de Javascript y Jquery.
@@ -66,9 +66,6 @@
 * [Demostracion de eventos tipo key (onkeyup, onkeydown, onkeypress)](eventos/onkey_up_down_press.html)
 * [Evento semantico (onclick)](eventos/evento_semantico.html)
 * [Implementacion de Event Handler (onclick)](eventos/event_handler.html)
-## Proyectos
-* [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
-* [Quest Manager](proyectos/quest_manager)
 
 # Jquery
 * [Borrar y mostrar un texto por un determinado tiempo](jquery/hide_show.html)
@@ -83,3 +80,7 @@
 * [Agregar y remover una clase css a un parrafo](jquery/add_class.html)
 * [Uso del Evento doble click](jquery/dblclick.html)
 * [Uso del Eventos key](jquery/keydown.html)
+
+# Proyectos
+* [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
+* [Quest Manager](proyectos/quest_manager)
