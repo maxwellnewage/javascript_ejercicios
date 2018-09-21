@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Jquery</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <p id="text1">Text 1</p>
+    <p id="text2">Text 2</p>
+    <br>
+    <button id="button1">Change Text</button>
+    <button id="button2">Change HTML</button>
+
+    <script>
+        $(document).ready(function(){
+            $("#button1").click(function(){
+                $("#text1").text("<b>Hi!!</b>"); // texto plano sin codificacion
+            });
+
+            $("#button2").click(function(){
+                $("#text2").html("<b>Hi!!</b>"); // texto que toma las etiquetas en cuenta
+            });
+        });
+    </script>
+</body>
+</html>
