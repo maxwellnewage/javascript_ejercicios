@@ -9,14 +9,13 @@
 </head>
 <body>
     <input type="text" id="name" value="Name"><br>
+    <input type="email" id="email" value="Email"><br>
     <button>CLICK ME!</button>
 
     <script>
         $(document).ready(function(){
             $("button").click(function(){
-                let inputType = $("input").attr("type"); // accede al atributo type = text
-                let inputValue = $("input").attr("value", "FirstName"); // accede al atributo value y lo cambia
-                alert(inputType);
+                $("input[type='text']").attr("value", "FirstName"); // accede al atributo value de los type text y lo cambia
             });
         });
     </script>

@@ -79,3 +79,4 @@
 * [Uso de even y odd para seleccion par e impar](jquery/even_odd.html)
 * [Uso de text y html](jquery/text_html.html)
 * [Uso de attr en un input](jquery/attr.html)
+* [Uso de attr en un input type text unicamente](jquery/attr_input_selector.html)
