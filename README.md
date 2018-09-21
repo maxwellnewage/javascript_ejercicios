@@ -83,6 +83,7 @@
 * [Agregar y eliminar elementos a un nodo](jquery/append_remove.html)
 * [Obtener el nodo padre](jquery/parent.html)
 * [Uso de metodos de transicion FadeIn y FadeOut](jquery/fadein_out.html)
+* [Uso de metodos de transicion SlideDown y SlideUp](jquery/slidedown_up.html)
 
 # Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
