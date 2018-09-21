@@ -81,6 +81,7 @@
 * [Uso del Evento doble click](jquery/dblclick.html)
 * [Uso del Eventos key](jquery/keydown.html)
 * [Agregar y eliminar elementos a un nodo](jquery/append_remove.html)
+* [Obtener el nodo padre](jquery/parent.html)
 
 # Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
