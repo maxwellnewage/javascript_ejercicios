@@ -80,6 +80,7 @@
 * [Agregar y remover una clase css a un parrafo](jquery/add_class.html)
 * [Uso del Evento doble click](jquery/dblclick.html)
 * [Uso del Eventos key](jquery/keydown.html)
+* [Agregar y eliminar elementos a un nodo](jquery/append_remove.html)
 
 # Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
