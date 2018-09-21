@@ -1,8 +1,8 @@
 # Ejercicios de Javascript
 
 ## Módulos
-[[General](#general)]
 [[Introduccion](#introduccion)]
+[[General](#general)]
 [[Ciclos](#ciclos)]
 [[Condicionales](#condicionales)]
 [[Funciones](#funciones)]
@@ -78,3 +78,4 @@
 * [Al pulsar un boton, se oculta el ultimo y primer elemento de una lista](jquery/list_selector.html)
 * [Uso de even y odd para seleccion par e impar](jquery/even_odd.html)
 * [Uso de text y html](jquery/text_html.html)
+* [Uso de attr en un input](jquery/attr.html)
