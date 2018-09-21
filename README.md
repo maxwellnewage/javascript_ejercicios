@@ -68,3 +68,4 @@
 * [Borrar y mostrar un texto por un determinado tiempo](jquery/hide_show.html)
 * [Borrar todos los elementos mediante un evento click](jquery/hide_all.html)
 * [Escribir un texto que aparezca en un alert cuando se dispare evento click](jquery/input_alert.html)
+* [Al pulsar un boton, mediante this se tiene que ocultar y mostrar por un tiempo determinado](jquery/this.html)
