@@ -81,3 +81,4 @@
 * [Uso de attr en un input](jquery/attr.html)
 * [Uso de attr en un input type text unicamente](jquery/attr_input_selector.html)
 * [Agregar y remover una clase css a un parrafo](jquery/add_class.html)
+* [Uso del Evento doble click](jquery/dblclick.html)
