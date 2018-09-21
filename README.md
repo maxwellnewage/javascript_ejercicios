@@ -8,7 +8,9 @@
 [[Objetos](#objetos)]
 [[Eventos](#eventos)]
 [[Proyectos](#proyectos)]
+[[Jquery](#jquery)]
 
+# Vanilla Javascript
 ## General
 * [Escriba un programa de JavaScript para mostrar el día y la hora actuales en el siguiente formato: "Hoy es : Lunes."](general/date.js)
 * [Escriba una función de JavaScript para imprimir el contenido de la ventana actual.](general/printer.html)
@@ -61,3 +63,6 @@
 ## Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
 * [Quest Manager](proyectos/quest_manager)
+
+# Jquery
+* [Borrar y mostrar un texto por un determinado tiempo](jquery/hide_show.html)
