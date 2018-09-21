@@ -2,6 +2,7 @@
 
 ## Módulos
 [[General](#general)]
+[[Introduccion](#introduccion)]
 [[Ciclos](#ciclos)]
 [[Condicionales](#condicionales)]
 [[Funciones](#funciones)]
@@ -9,6 +10,11 @@
 [[Eventos](#eventos)]
 [[Proyectos](#proyectos)]
 [[Jquery](#jquery)]
+
+# Introduccion
+* Este es un repositorio para practicar los principios básicos y avanzados de Javascript y Jquery.
+* La mayoría de los ejemplos tienen código inline, por lo que el script esta contenido dentro de un mismo archivo html. Esto lo hice para facilitar la reutilizacion del ejemplo, pero la práctica más óptima es mantener los archivos html, js y css separados.
+* No tengo un sistema de releases debido a que los ejemplos son aislados y no están atados a ningun roadmap.
 
 # Vanilla Javascript
 ## General
