@@ -27,12 +27,32 @@
             <td>Roc</td>
             <td>14</td>
         </tr>
+        <tr>
+            <td>Matt</td>
+            <td>40</td>
+        </tr>
     </table>
+
+    <div id="list">
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+        <p></p>
+    </div>
 
     <script>
         $(document).ready(function(){
-            $("tr:even").css("background-color", "yellow"); // filas de indice par tienen color
-            $("tr:odd").css("background-color", "yellow"); // filas de indice impar tienen color
+            $("table tr:even").css("background-color", "yellow"); // filas de indice par tienen color
+            $("table tr:odd").css("background-color", "blue"); // filas de indice impar tienen color
+
+            $("#list p:even").text("es par").css("background-color", "red");
+            $("#list p:odd").text("es impar").css("background-color", "aquamarine");
         });
     </script>
 </body>
