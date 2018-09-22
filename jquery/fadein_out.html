@@ -23,7 +23,8 @@
 
             $("#btFadeOut").click(function(){
                 $('#fade-title').fadeOut(3000, function () {
-                    console.log('Se completo la animación')
+                    $(this).css("opacity", "0");
+                    $(this).css("display", "block");
                 })
             });
         });
