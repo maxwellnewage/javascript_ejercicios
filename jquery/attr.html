@@ -8,15 +8,24 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
-    <input type="text" id="name" value="Name"><br>
-    <button>CLICK ME!</button>
+    <input type="text" id="firstname"><br>
+    <input type="text" id="lastname"><br>
+    <input type="text" id="surname"><br>
+    <button id="btnFirst">CLICK ME 1!</button>
+    <button id="btnLast">CLICK ME 2!</button>
+    <button id="btnSur">CLICK ME 3!</button>
 
     <script>
         $(document).ready(function(){
             $("button").click(function(){
-                let inputType = $("input").attr("type"); // accede al atributo type = text
-                let inputValue = $("input").attr("value", "FirstName"); // accede al atributo value y lo cambia
-                alert(inputType);
+                let buttonType = $(this).attr("id"); // accede al atributo type = text
+                
+                if(buttonType === "btnFirst")
+                    $("#firstname").attr("value", "Firstname");
+                else if (buttonType === "btnLast")
+                    $("#lastname").attr("value", "Lastname");
+                else if (buttonType === "btnSur")
+                    $("#surname").attr("value", "Surname");
             });
         });
     </script>
