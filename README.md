@@ -38,6 +38,7 @@
 * [Promise](general/promise.js)
 * [Async](general/async.js)
 * [Async - Await](general/async_await.js)
+* [Implementacion de try catch](general/try_catch.js)
 ## Ciclos
 * [Crear un ciclo que recorra los numeros del 1 al 10 y los imprima hasta el 5.](ciclos/while_break.js)
 * [Recorrer los numeros del 1 al 5 pero saltear el 3.](ciclos/for_continue.js)
