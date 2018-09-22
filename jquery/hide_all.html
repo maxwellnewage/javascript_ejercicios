@@ -8,14 +8,24 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
-    <button>Click</button>
-    <div id="text1">Text 1</div>
-    <div id="text2">Text 2</div>
-    <div id="text3">Text 3</div>
+    <button id="btnHide">Click Hide</button>
+    <button id="btnShow">Click Show</button>
+    <button id="btnGTFO">GTFO</button>
+    <p id="text1">Text 1</p>
+    <p id="text2">Text 2</p>
+    <p id="text3">Text 3</p>
 
     <script>
         $(document).ready(function(){
-            $("button").click(function() {
+            $("#btnHide").click(function() {
+                $("p").hide();
+            });
+
+            $("#btnShow").click(function() {
+                $("p").show();
+            });
+            
+            $("#btnGTFO").click(function() {
                 $("*").hide();
             });
         });
