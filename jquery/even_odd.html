@@ -6,10 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Jquery</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <style>
+    #test {
+        /* no tiene prioridad sobre jquery css */
+        background-color: red;
+    }
+    </style>
 </head>
 <body>
     <table border="1">
-        <tr>
+        <tr id="test">
             <td>Max</td>
             <td>28</td>
         </tr>
