@@ -88,6 +88,7 @@
 * [Uso de metodo delay con hide](jquery/delay_hide.html)
 * [Deteccion de scroll page en objeto window](jquery/scroll.html)
 * [Efecto parallax](jquery/parallax)
+* [Request de API por AJAX](jquery/ajax.html)
 
 # Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
