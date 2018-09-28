@@ -1,0 +1,64 @@
+body {
+    background: black;
+}
+
+h1 {
+    color: green;
+}
+
+#background-1 {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#background-2 {
+    z-index: 2;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+#background-3 {
+    z-index: 3;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+#background-4 {
+    z-index: 4;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+#background-5 {
+    z-index: 4;
+    position: absolute;
+    left: 0;
+    width: 100%;
+}
+
+.ship-2 {
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.ship-3 {
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.ship-4 {
+    margin-left: 50%;
+    margin-top: 10%;
+}
+
+.ship-5 {
+    margin-left: 70%;
+    margin-top: 10%;
+}
+  

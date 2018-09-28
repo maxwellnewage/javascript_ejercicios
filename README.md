@@ -87,6 +87,7 @@
 * [Uso de metodos de transicion SlideDown y SlideUp](jquery/slidedown_up.html)
 * [Uso de metodo delay con hide](jquery/delay_hide.html)
 * [Deteccion de scroll page en objeto window](jquery/scroll.html)
+* [Efecto parallax](jquery/parallax)
 
 # Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
