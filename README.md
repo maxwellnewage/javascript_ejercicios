@@ -89,6 +89,7 @@
 * [Deteccion de scroll page en objeto window](jquery/scroll.html)
 * [Efecto parallax](jquery/parallax)
 * [Request de API por AJAX](jquery/ajax.html)
+* [Request de Swapi](jquery/swapi.html)
 
 # Proyectos
 * [Algoritmo de eleccion aleatoria de alumnos.](proyectos/alumnos_random)
